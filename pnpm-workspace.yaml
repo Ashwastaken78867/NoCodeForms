@@ -1,0 +1,9 @@
+packages:
+  - client
+  - server
+  - packages/*
+ignoredBuiltDependencies:
+  - '@swc/core'
+  - bcrypt
+  - esbuild
+  - sharp
